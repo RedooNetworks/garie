@@ -4,7 +4,7 @@
   </a>
 </div>
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/boyney123/garie)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/charisTheo/garie)
 
 <div align="center">
 <p align="center"><a align="center" href="https://garie.netlify.com/">https://garie.netlify.com/</a><p>
