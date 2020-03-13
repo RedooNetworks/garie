@@ -1,0 +1,7 @@
+[build]
+  command = "sh start.sh"
+
+[template.environment]
+  PAGESPEED_INSIGHTS_API_KEY = "PageSpeed Insights API Key"
+  WEBSITE_URL = "your website's url that you would like to measure"
+  CRONJOB_INTERVAL = "cron job interval to run the speed audits"
